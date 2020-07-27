@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ea7bf8-0d00-44be-9040-aa80cc942fbb" name="Default Changelist" comment="" />
+    <list default="true" id="12ea7bf8-0d00-44be-9040-aa80cc942fbb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements/base.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements/base.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +37,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1077" y="436" key="com.intellij.ide.util.TipDialog" timestamp="1595469832879">
+    <state x="162" y="553" key="DiffContextDialog" timestamp="1595783112462">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state x="1077" y="436" key="com.intellij.ide.util.TipDialog/0.23.2560.1350@0.23.2560.1350" timestamp="1595469832879" />
+    <state x="162" y="553" key="DiffContextDialog/0.23.2560.1350@0.23.2560.1350" timestamp="1595783112462" />
+    <state x="598" y="515" key="RollbackChangesDialog" timestamp="1595783115139">
+      <screen x="0" y="23" width="2560" height="1350" />
+    </state>
+    <state x="598" y="515" key="RollbackChangesDialog/0.23.2560.1350@0.23.2560.1350" timestamp="1595783115139" />
+    <state x="1077" y="436" key="com.intellij.ide.util.TipDialog" timestamp="1595782599843">
+      <screen x="0" y="23" width="2560" height="1350" />
+    </state>
+    <state x="1077" y="436" key="com.intellij.ide.util.TipDialog/0.23.2560.1350@0.23.2560.1350" timestamp="1595782599843" />
   </component>
 </project>

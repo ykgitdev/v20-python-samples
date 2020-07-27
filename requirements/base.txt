@@ -3,3 +3,10 @@ tabulate==0.8.2
 requests==2.20.0
 ujson==1.35
 v20==3.0.25.0
+
+
+# oanda api access token 2635e7c3fd44d41781720e2ba5c0d25d-1e904b533c4d678410e06f592f433ae3
+# oanda api curl command: curl -H "Authorization: Bearer 2635e7c3fd44d41781720e2ba5c0d25d-1e904b533c4d678410e06f592f433ae3" https://api-fxtrade.oanda.com/v3/accounts
+
+
+# /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/oandapyV20
